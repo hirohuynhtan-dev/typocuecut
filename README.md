@@ -4,7 +4,7 @@ Công cụ thiết kế chữ chuyển động (**Kinetic Typography**) và tự
 
 ## Tải về cho macOS (Apple Silicon `arm64`)
 
-<a href="https://github.com/hirohuynhtan-dev/typocuecut/releases/download/v1.0.1/Typo.Cuecut-1.0.1-arm64.dmg">
+<a href="https://github.com/hirohuynhtan-dev/typocuecut/releases/download/v1.1.3/TypoCuecut.dmg">
   <img src="https://img.shields.io/badge/T%E1%BA%A3i_Typo_Cuecut_cho_Mac_%28.dmg%29-0A7CFF?style=for-the-badge&logo=apple&logoColor=white" alt="Tải Typo Cuecut cho Mac (.dmg)" />
 </a>
 
